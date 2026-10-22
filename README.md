@@ -18,3 +18,4 @@ An AI-powered application that analyzes GitHub repository activity.
 - GitHub REST API
 - Requests
 - python-dotenv
+Activity detection and report generation test.
