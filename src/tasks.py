@@ -24,6 +24,7 @@ def create_commit_analysis_task(agent, commits):
     )
 
 
+
 def create_comment_analysis_task(agent, comments):
     """Create a task to analyze GitHub comments and discussions."""
     return Task(

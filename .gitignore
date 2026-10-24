@@ -1,17 +1,11 @@
-
-# Python virtual environment
-.venv/
-
-# Environment variables and secrets
 .env
-
-# Python cache files
+.venv/
 __pycache__/
 *.py[cod]
-
-# Generated reports
+.pytest_cache/
 reports/
 
 # Editor and OS files
 .vscode/
 .DS_Store
+cle
